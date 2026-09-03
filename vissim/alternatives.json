@@ -1,0 +1,34 @@
+[
+  {
+    "alt": "A",
+    "cycle": 130,
+    "treatment": "protected",
+    "hcm_delay": 53.1,
+    "hcm_los": "D",
+    "file": "controller_A.csv"
+  },
+  {
+    "alt": "B",
+    "cycle": 100.0,
+    "treatment": "protected",
+    "hcm_delay": 48.0,
+    "hcm_los": "D",
+    "file": "controller_B.csv"
+  },
+  {
+    "alt": "C",
+    "cycle": 130,
+    "treatment": "prot-perm",
+    "hcm_delay": 48.7,
+    "hcm_los": "D",
+    "file": "controller_C.csv"
+  },
+  {
+    "alt": "D",
+    "cycle": 120.0,
+    "treatment": "prot-perm",
+    "hcm_delay": 46.5,
+    "hcm_los": "D",
+    "file": "controller_D.csv"
+  }
+]
